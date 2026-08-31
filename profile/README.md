@@ -10,7 +10,7 @@ We currently have safeguards in place that instruct AI never to contribute any a
 
 But we fully acknowledge that sometimes you can only use the tool.
 
-Times like prototyping, for fear of taking too long and not working.
+Times like prototyping, for fear of taking too long and it not working.
 
 Memory support for keeping track of long-running tasks that simply do not fit inside a human brain.
 
